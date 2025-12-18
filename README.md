@@ -12,7 +12,7 @@
 
 ## 📸 Visual Preview
 
-![Dashboard Preview](https://via.placeholder.com/800x450?text=Dashboard+Action+Shot+Placeholder)
+![Dashboard Preview](dashboard_preview.jpeg)
 *The Command Center: Weather, News, Finance, and AI Insights at a glance.*
 
 ---
