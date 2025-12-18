@@ -21,7 +21,7 @@
 
 - [🚀 My Daily Brief](#-my-daily-brief)
   - [📸 Visual Preview](#-visual-preview)
-  - [� Table of Contents](#-table-of-contents)
+  - [📑 Table of Contents](#-table-of-contents)
   - [💡 About](#-about)
   - [🛠️ Tech Stack](#-tech-stack)
   - [⚙️ Architecture & Flow](#-architecture--flow)
@@ -42,7 +42,7 @@ Powered by **Google Gemini AI**, it doesn't just show you data—it interprets i
 
 ---
 
-## �️ Tech Stack
+## 🛠️ Tech Stack
 
 *   **Core:** Python 3.9+ 🐍
 *   **Web Framework:** Streamlit (Custom CSS & Components)
@@ -73,7 +73,7 @@ The application follows a **Data-Driven Retrieval & Generation (RAG-lite)** pipe
 
 ---
 
-## � Installation
+## 📦 Installation
 
 ### 1. Prerequisites
 Ensure you have **Python 3.8+** installed.
